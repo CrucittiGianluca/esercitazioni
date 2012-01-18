@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android">
+
+<compilation>
+- <brano id="1">
+  <titolo>Siamo solo noi</titolo> 
+  <autore>Vasco</autore> 
+  <genere>Rock</genere> 
+  </brano>
+
+- <brano id="2">
+  <titolo>Ora e allora</titolo> 
+  <autore>Ligabue</autore> 
+  <genere>Rock</genere> 
+  </brano>
+
+- <brano id="3">
+  <titolo>L'italiano medio</titolo> 
+  <autore>Articolo31</autore> 
+  <genere>Hip Hop</genere> 
+  </brano>
+
+- <!-- Canzoni più ascoltate   --> 
+  </compilation>
+  
+  </LinearLayout>
